@@ -1,9 +1,0 @@
-import java.util.Scanner;
-import java.io.File;
-public class Main {
-  public static void main(String[] args) {
-    try{System.out.println(dayTwo());}catch(Exception e){}
-  }
-  
-  public static int dayTwo() {
-  
